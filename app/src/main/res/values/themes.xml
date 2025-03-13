@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EvalQuilicheCruzado" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.EvalQuilicheCruzado" parent="Base.Theme.EvalQuilicheCruzado" />
+    <style name="Titulos">
+        <item name="android:shadowColor">@android:color/holo_blue_bright</item>
+        <item name="android:shadowDx">6</item>
+        <item name="android:shadowDy">6</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:textColor">@color/design_default_color_primary_variant</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
